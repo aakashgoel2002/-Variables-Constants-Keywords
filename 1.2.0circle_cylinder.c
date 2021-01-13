@@ -2,7 +2,7 @@
 int main(){
     int r,h;
     float pi=3.14:
-    printf("Enter the radius of circle \n");
+    printf("Enter the radius of circle: \n");
     scanf("%d\n",& r);
     printf("The area of Circle is %f", r*r*pi );
     printf("Enter the height of cylinder \n");
