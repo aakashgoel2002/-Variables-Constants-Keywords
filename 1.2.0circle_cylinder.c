@@ -3,7 +3,7 @@ int main(){
     int r,h;
     float pi=3.14;
     printf("Enter the radius of circle: ");
-    scanf("%d\n",& r);
+    scanf("%d",& r);
     printf("The Area of circle is: %f", r*r*pi );
     printf("Enter the height of cylinder: ");
     scanf("%d\n",& r);
