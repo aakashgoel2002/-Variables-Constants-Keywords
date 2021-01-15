@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     float p,r,t;
-    printf("Enter Principl Ammount ");
+    printf("Enter Principl Ammount: ");
     scanf("%f", &p);
     printf("Enter Rate ");
     scanf("%f", &r);
