@@ -1,9 +1,8 @@
 #include<stdio.h>
 int main(){
-    float c,f;
+    float c;
     printf("Enter the temperature in Celsius: ");
     scanf("%f",&c);
-    f=(c*9/5)+32;
-    printf("Temperature in farhenheit is: %f",f);
+    printf("Temperature in farhenheit is: %f",(c*9/5)+32);
     return 0;
 }
