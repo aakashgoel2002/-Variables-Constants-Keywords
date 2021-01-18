@@ -1,2 +1,2 @@
 # Variables-Constants-Keywords
-This Repository contains basic C(Programming Language) Scripts.
+This Repository contains C(Programming Language) Scripts.
