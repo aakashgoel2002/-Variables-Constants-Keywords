@@ -7,6 +7,6 @@ int main(){
     scanf("%f",&r);
     printf("Enter the time(in months): ");
     scanf("%f",&t);
-    printf("The Simple Intrest calculated is: %f", (p*r*t)/100);
+    printf("Simple Intrest: %f", (p*r*t)/100);
     return 0;
 }
