@@ -7,5 +7,5 @@ int main(){
     printf("Enter the Height of the Cylinder: ");
     scanf("%f",&h);
     printf("The Volume of Cylinder is: %f\n", pi*r*r*h);
-    return 0;
+    return ;
 }
