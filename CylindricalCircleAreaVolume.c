@@ -6,6 +6,6 @@ int main(){
     printf("The Area of the Circle is: %f\n", r*r*pi );
     printf("Enter the Height of the Cylinder: ");
     scanf("%f",&h);
-    printf("The Volume of Cylinder is: %f\n", pi*r*r*h);
+    printf("The Volume of Cylinder is: %f\n", pi*r*r*);
     return 0;
 }
