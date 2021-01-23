@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    float r,h,pi=3.14
+    float r,h,pi=3.14;
     printf("Enter the Radius of the Circle: ");
     scanf("%f",&r);
     printf("The Area of the Circle is: %f\n", r*r*pi );
