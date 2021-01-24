@@ -1,5 +1,5 @@
 #include<stdio.h>
-float average(float a,float b,float c);
+float average(float a,float b,float c)
 int main(){
     float a,b,c,avg;            //taking the float variables   
     printf("Enter 3 Numbers:\n");
