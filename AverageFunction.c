@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h
 float average(float a,float b,float c);
 int main(){
     float a,b,c,avg;            //taking the float variables   
