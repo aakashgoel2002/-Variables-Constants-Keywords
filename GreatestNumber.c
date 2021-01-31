@@ -1,6 +1,5 @@
 #include<stdio.h>
-int main()
-{
+int main(){
     int a,b,c,d,e;
     printf("Enter 4 Number of which the greatest is to be finded\n");
     scanf("%d",& a);
