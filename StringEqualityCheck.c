@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-int main()
-{
+int main(){
     char st[100];
     char sp[100];
     printf("Enter 2 Strings: \n");
