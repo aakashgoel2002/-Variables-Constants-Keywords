@@ -6,8 +6,7 @@ int main(){
     scanf("%d",&n);
     printf("The Value of Fibonacci series at nTH element is %d",fib(n));
 }
-int fib(int n)
-{
+int fib(int n){
     if(n==0)
     return 0;
     else if(n==1)
