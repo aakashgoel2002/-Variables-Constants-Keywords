@@ -1,7 +1,6 @@
 #include<stdio.h>
 int fib(int n);
-int main()
-{
+int main(){
     int n;
     printf("Enter the value of Nth element\n");
     scanf("%d",&n);
