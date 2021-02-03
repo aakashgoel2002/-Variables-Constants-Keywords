@@ -10,3 +10,4 @@ int main()
     printf("These do not have same memory location\n");
     return 0;
 }
+
